@@ -1,4 +1,1 @@
-Hello im nebula.
-im intrested in cybersecurity
-im going to shoot myself 25/9/2026
-
+Welcome to my GitHub repository! This is Nebula, a passionate learner interested in cybersecurity. Here, I document my journey as I delve into the world of cybersecurity, working on various projects and expanding my knowledge and skills in this field.
